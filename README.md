@@ -1,6 +1,6 @@
-### EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
-# NAME - RUSHMITHA R
-# REGISTRATION NUMBER - 24006587
+# EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+## NAME - RUSHMITHA R
+## REGISTRATION NUMBER - 24006587
 
 **AIM:** 
 
