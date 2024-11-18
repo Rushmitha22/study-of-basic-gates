@@ -1,6 +1,6 @@
-# EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
-## NAME - RUSHMITHA R
-## REGISTRATION NUMBER - 24006587
+# EXP1 : Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+## NAME : RUSHMITHA R
+## REGISTRATION NUMBER : 24006587
 
 **AIM:** 
 
@@ -84,5 +84,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 **Result:**
 ![basic logic gates waveform](https://github.com/user-attachments/assets/c3062104-cc6a-4741-8d94-5d0fe337d076)
+
+Thus we have verified the truth table of logic gates in Quartus II using Verilog programming.
 
 
