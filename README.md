@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### EXP1:Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
+# NAME - RUSHMITHA R
+# REGISTRATION NUMBER - 24006587
 
 **AIM:** 
 
@@ -69,11 +71,17 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![image](https://github.com/user-attachments/assets/931918ef-76d0-4ba4-9f0b-64439c6cb463)
 
 **RTL realization Output:** 
+![basic logic gates diagram](https://github.com/user-attachments/assets/721727b8-98b8-4e42-9830-162222e91cc6)
+
 
 **RTL**
+![basic logic gates code](https://github.com/user-attachments/assets/66c2ddd7-a9a6-4320-b406-d858f2100ced)
+
 
 **Result:**
+![basic logic gates waveform](https://github.com/user-attachments/assets/c3062104-cc6a-4741-8d94-5d0fe337d076)
 
 
